@@ -1,0 +1,6 @@
+springmvc.adminlogin.title=后台登录
+springmvc.adminlogin.topinfo=后台管理员登录
+springmvc.adminlogin.loginId=账号：
+springmvc.adminlogin.loginPsw=密码：
+springmvc.adminlogin.submit=登录
+springmvc.adminlogin.logintip=登录失败：账号或密码错误！
